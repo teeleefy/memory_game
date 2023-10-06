@@ -1,0 +1,29 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.cardDecor {
+  background-image: url("colorful.jpg");
+}
+
+/* #restart {
+  display: none;
+} */
+
+body {
+  background-color: black;
+}
+
+h1,
+p {
+  color: white;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
